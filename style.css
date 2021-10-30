@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.mr-5{
+    font-size: 20px;
+}
+.mr-5:hover{
+    color: #77ABD9;
+}
+/* hero */
+
+.hero{
+    background-color: #77ABD9;
+}
+/* Number */
+
+.Number{
+    background-color: #c8e4fc;
+}
+/* contact */
+
+.contact{
+    font-size: 40px;
+    text-align: center;
+    color: #2c6ba1;
+}
+
+
+
